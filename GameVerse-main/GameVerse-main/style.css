@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+#cabeca{
+    padding: 50px;
+    margin-top: -60px;
+
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.ul{
+    list-style-type: none;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:purple;
+    border-radius: 30px;
+    background-color: black;
+}
